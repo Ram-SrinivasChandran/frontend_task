@@ -27,7 +27,7 @@
 
 ### Level 1 
 - Add CSS:
-	- [ ] Convert the displayed data into an HTML table.
+	- [x] Convert the displayed data into an HTML table.
 	- [ ] Ensure there is appropriate spacing and padding between table elements for better readability [refer screenshot].
 - Fix Existing Issues:
 	- [ ] The "Add User" button is currently not functioning. Identify the issue and fix it so that new users can be added.
